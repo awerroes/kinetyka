@@ -1,5 +1,9 @@
 # Wyznaczanie stałej Michaelisa i szybkości maksymalnej peroksydazy.
 
+Repozytorium jest próbą uproszczenia pracy nad przygotowaniem sprawozdania z ćwiczeń laboratoryjnych [Biochemiczna analiza instrumentalna](https://www.usosweb.uj.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=WCh-CM-B106-19&callback=g_1ef3b41c). Plik *kinetyka.Rmd* wymaga uzupełnienia o orginalne dane, wstęp teoretyczny oraz dyskusję wyników. Struktura pliku stara się być podobna do sprawozdania przygotowywanego tradycyjnym sposobem. Zdajemy sobie sprawę z licznych niedociągnięć występujących w załączonym pliku i liczymy na ich wskazanie.
+
+## Praca na plattformie RStudio Cloud
+
 1. Utwórz konto i zaloguj się na stronie [RStudio Cloud](https://rstudio.cloud/)
 
 2. Po zalogowaniu, kliknij niebieski przyciski 'New Project' znajdujący się po prawej stronie ekranu.
@@ -23,3 +27,19 @@
 11. Program 'RStudio' wykona operacje zapisane w szablonie i utworzy plik pdf zawierający obliczenia i wykresy.
 
 12. Zapisz wygenerowany plik pdf na swoim komputerze.
+
+## [RMarkdown](https://rmarkdown.rstudio.com/)
+
+* [Podręcznik](https://bookdown.org/yihui/rmarkdown/)
+
+* [Ściąga](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+* Rozwinięcia:
+
+    * [bookdown](https://bookdown.org/home/)
+    
+    * [posterdown](https://github.com/brentthorne/posterdown)
+
+    * [vitae](https://github.com/mitchelloharawild/vitae)
+    
+    * [blogdown](https://bookdown.org/yihui/blogdown/)
